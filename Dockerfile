@@ -18,4 +18,4 @@ RUN npm run build
 EXPOSE 8081
 
 # Start the application
-CMD ["npm", "start"]
+CMD ["npm","run", "preview"]
